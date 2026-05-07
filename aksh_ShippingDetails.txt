@@ -1,0 +1,4 @@
+===== Shipping Details =====
+Customer Name: aksh
+Shipping Address: kolkata
+Contact Number: 12345

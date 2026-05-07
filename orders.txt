@@ -1,0 +1,5 @@
+Order ID: 101
+Product: Phone
+Customer: Akanksha
+Shipping Address: Jaipur
+Invoice Amount: 25000

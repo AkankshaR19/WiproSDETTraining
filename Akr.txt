@@ -1,0 +1,6 @@
+===== Patient Record =====
+Patient ID: 102
+Patient Name: Akr
+Age: 22
+Disease: Fever
+Doctor Name: K.Sharma

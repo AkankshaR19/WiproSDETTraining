@@ -1,0 +1,5 @@
+===== Restaurant Menu =====
+Burger - Rs 120
+Pizza - Rs 250
+Pasta - Rs 180
+Cold Coffee - Rs 90

@@ -1,0 +1,6 @@
+===== E-Commerce Invoice =====
+Customer Name: aksh
+Product Name: phone
+Quantity: 1
+Price per Product: Rs 25000.0
+Total Amount: Rs 25000.0

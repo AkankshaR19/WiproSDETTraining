@@ -1,0 +1,6 @@
+===== Patient Record =====
+Patient ID: 101
+Patient Name: Ak
+Age: 21
+Disease: Flu
+Doctor Name: A.Sharma
