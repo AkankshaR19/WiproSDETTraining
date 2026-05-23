@@ -1,0 +1,5 @@
+Restaurant: KFC
+Menu Item: Wings Bucket
+Customer: Akanksha
+Order Status: Delivered
+Delivery Time: 30 Minutes
