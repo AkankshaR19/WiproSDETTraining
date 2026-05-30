@@ -1,2 +1,0 @@
-Hi, I am learning file handling in Java.
-As I am going through training for Java with selenium.bye

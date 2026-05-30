@@ -1,5 +1,0 @@
-Patient ID: 201
-Patient Name: Akanksha
-Disease: Fever
-Doctor: N.K.Sharma
-Report: Stable
